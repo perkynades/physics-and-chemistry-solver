@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_HOME_DIR$/jbr!/java.base/java/lang/Math.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/TODOfix/BallThrownAirTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/TODOfix/TwoForcesClockwiseObjectAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/CarBankedCurveAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/CarHilltopLooseContactSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/CarHorizontalCurveMinCoefficient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/EngineersBankedCurveAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/NailMassOneRevolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/RoadwayStuntBankedAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsMotionInAPlane/TwoWireUpperTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BallHangingWindDragForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BlckUphillHorizontalForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BlockPulledUpFricitonAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BlockRopeTensionAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BoxHorizontalRightForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BoxSlidingFriction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/BumberCarStopCarForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/CrateRoughRampAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/ElevatorScaleAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/ElevatorScaleReading.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/FactoryRobotBeltDistance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/FallingDragTerminalSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/JasonSkiThrustTopSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/KieranSkiCoefficientFriction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/MoonAccelerationHorozontalForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/ObjectFallingDragForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/PuckMetalRampMaxHeight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/RocketThrustForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/SuffleboardPuckInitSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/dynamicsStraightMovement/TrafficLightRopesTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/CarAvgBreakForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/ChildSledInclineSlopeLength.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/ObjectFallingdragTerminalSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/TowTruckDoubleBusMaxAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/TwoForcesClockwiseObjectAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/TwoForcesEquilibrium.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/forcesAndMovement/TwoForcesSizeDirection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/AccelerationOfObjectTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/CarAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/CatABCavgSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/CatABCavgVelocity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/ConstantAccelerationBreakTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/ConstantAccelerationCarStop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/InstananeosAccelerationAtTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/InstananeousVelocityAtTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/PackageHeightDropHelicopterMovingUp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/PlaneAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/PoliceCarAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/RollingBallInitialSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/RunnerTimeToCompleteDist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/WomanExerciseAvgSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/WomanExerciseAvgVelocity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/catABCavgVelocity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInOneDimension/instananeousVelocityAtTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/AeleronRollWingTopAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/BallCableRevolutionsAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/BallThrownAirTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/BoyRockMaxHeightTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/DartDistance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/ElectricalMotorArmatureAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/HobbyRocketLaucnAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/LongDistanceSwimmerAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/PlaneSouthWindVelocity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/PuckSlideOffTableAngle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/PuckSlidesOfTableTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/PuckSlidesOffTableSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/RiverBoatVelocityAngleAtTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/RiverFlowSpeedRate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/RockWindomHorizontalDistance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/SatalliteAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/kinematicsInTwoDimension/TwoAirplanesNorthDestinationDirection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/BlockRestingOnBlockForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/BlockTwoPushRightForce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/OnePulleyThreeBlockHangingMass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/OnePulleyThreeBlockHangingTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/OnePulleyTwoBlockHangingMass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/PulleyRoughWallBlockMass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/SystemOfBlocksPulleyTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/ThreeBlockTwoPulleyTopAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/TwoBlockPulleyLowerBlockAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/TwoBlockTwoPulleyOneHangingAcceleration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/TwoRopeRopeOneTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/WeightsThreeSmallestTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/WeightsThreeTotalPull.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/newtonsThirdLaw/WoodenBlocksTwoFricitonCoefficient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/BallThrownUpwardsReleaseSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/BlockSlideDownBottomSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/CraneLiftSteelBeamWork.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/CrateRoughUphillFriction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/GroceriesAcrossRoomWork.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/ProjectileFireHeightPercentage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/RockEquationMovedSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/SpringReturnEquilibriumSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/SprintReturnEquilibriumSpeed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/ThreeForcesThirdForceWork.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/physics/assignments/work/TravelerStrapTension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
