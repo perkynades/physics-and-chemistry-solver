@@ -17,7 +17,7 @@ public class PotatoChipsMountainsVolume {
     private double calc() {
         double newVolume;
 
-        newVolume = 
+        newVolume = ((1.01*Math.pow(10, 5)*chipsVolume) / (mountainPressure*Math.pow(10, 3))) * ((mountainTemperature+273.15) / (seaTemperature+273.15));
 
         return newVolume;
     }
