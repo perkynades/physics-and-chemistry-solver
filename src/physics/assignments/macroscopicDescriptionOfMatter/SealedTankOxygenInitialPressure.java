@@ -17,6 +17,13 @@ public class SealedTankOxygenInitialPressure {
     private double calc() {
         double pressure;
 
-        
+        pressure = (moles*8.314*initTemperature) / (tankVolume*1000*1000);
+
+        return pressure;
+    }
+
+    public static void main(String[] args) {
+        SealedTankOxygenInitialPressure sealedTankOxygenInitialPressure = new SealedTankOxygenInitialPressure(96.19, 5086.76, 275.14, 443.66);
+        System.out.println(sealedTankOxygenInitialPressure.calc());
     }
 }
