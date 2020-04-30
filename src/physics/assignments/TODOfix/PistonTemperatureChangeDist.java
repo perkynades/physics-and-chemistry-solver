@@ -1,5 +1,8 @@
 package physics.assignments.TODOfix;
 
+/**
+ * TODO: FIX AND PUT IN MACROSCOPIC DESCRIPTION OF MATTER
+ */
 public class PistonTemperatureChangeDist {
 
     private double mass;
